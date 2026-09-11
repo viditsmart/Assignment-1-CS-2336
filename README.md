@@ -10,15 +10,18 @@ How to execute the program:
 8. After that the menu displays again and prompting you again to input a number from the menu.
 9. If you input 7 the program ends. 
 
+Test Cases:
+
+
 PsuedoCode:
 Output Menu;
-Output 1. Convert Fahrenheit to Celsius
-Output 2. Convert Gallons to Liter
-Output 3. Convert Pounds to Kilograms
-Output 4. Convert Miles to Kilometers
-Output 5. Convert Inch to Centimeters
-Output 6. Convert Yards to Meter
-Output 7. Exit the program.
+Output 1. Convert Fahrenheit to Celsius;
+Output 2. Convert Gallons to Liter;
+Output 3. Convert Pounds to Kilograms;
+Output 4. Convert Miles to Kilometers;
+Output 5. Convert Inch to Centimeters;
+Output 6. Convert Yards to Meter;
+Output 7. Exit the program.;
 Ask the user to input a number from the menu;
 While(choice does not equal 7)
 {
