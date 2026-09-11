@@ -11,7 +11,17 @@ How to execute the program:
 9. If you input 7 the program ends. 
 
 Test Cases:
-
+Test case 1
+Input:
+choice = 1;
+num_to_convert = -8
+Output:
+new_num = -22.22
+Test case 2:
+choice = 2;
+num_to_convert = 46
+Output:
+new_num = 174.34
 
 PsuedoCode:
 Output Menu;
@@ -25,7 +35,7 @@ Output 7. Exit the program.;
 Ask the user to input a number from the menu;
 While(choice does not equal 7)
 {
-  Ask the user to input a number to convert;
+  Ask the user to input a number to convert in double;
   switch(choice)
   {
     case 1: If user chooses option 1 this case is executed and the number will be converted from Fahrenheit to Celsius;
